@@ -53,6 +53,9 @@ h4 {
   font-size: 18px;
 }
 
+.card-style{
+    padding-top: 10px;
+}
 .navbar-margin {
   padding: 20px 80px;
 }
@@ -97,6 +100,7 @@ a {
   width: 100%;
   height: auto;
 }
+
 
 .all-began-color p {
   background-color: #cee0e5;
