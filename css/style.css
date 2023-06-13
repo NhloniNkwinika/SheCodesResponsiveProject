@@ -184,3 +184,13 @@ small {
     margin: 0 auto;
   }
 }
+.submit-button{
+  background-color: black;
+  border: 1px solid black;
+}
+.submit-button:hover{
+  background-color: #f8f9fa;
+  color: black;
+  transition: 0.1s ease-in-out;
+  border: 1px solid black;
+}
